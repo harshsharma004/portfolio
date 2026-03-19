@@ -13,7 +13,7 @@ export default function MovingText(){
     
     return(
     
-    <div className="overflow-auto py-12
+    <div className="overflow-hidden py-12
     
     bg-gray-50
     dark:bg-black

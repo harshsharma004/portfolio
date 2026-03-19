@@ -58,3 +58,10 @@ font-family: 'JetBrains Mono', monospace;
         @apply bg-white dark:bg-black min-h-screen;
       }
     }
+    :-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  scrollbar-width: none;
+}
